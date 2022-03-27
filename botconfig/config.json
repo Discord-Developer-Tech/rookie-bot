@@ -1,0 +1,49 @@
+{
+    "token": "OTU3Mjg3MDU4NzgxNjU1MTIx.Yj8lDA.RbgBD1jKUSgqvmDXCecvPQMtufw",
+    "prefix": ";",
+    "ownerIDS": [
+        "516684684231704592"
+    ],
+    "fnbr": "5ab16c0e5f957f27504aa4e4",
+    "fortnitetracker": "3bbf70dc-5bed-4ca1-aee3-4ca3921486e4",
+    "memer_api": "OY1BK1tQiPk",
+    "status": {
+        "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
+        "text2": "By: Rookie VanGuard",
+        "type": "PLAYING",
+        "url": "https://www.youtube.com/watch?v=sZpZM80eens"
+    }
+   "clientsettings": {
+       "nodes": [
+           {
+               "host": "lava.link",
+               "port": 80,
+               "password": "meow"
+           }
+       ]
+   }
+
+    "spotify": {
+        "clientSecret": "4661e76163074846b638026c9fda59b3",
+        "clientID": "e4bc1c3de39f4b33be0068f9dfc9e5bd"
+    },
+    "settings": {
+        "COMMENT": "time_delay 0 === insta leave",
+        "leaveOnEmpty_Channel": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "LeaveOnEmpty_Queue": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "selfDeaf": true
+    },
+    "lyricssettings": {
+        "lyrics_finder": true,
+        "ksoft_api": {
+            "use_this_instead": true,
+            "api_key": "DISABLED"
+        }
+    }
+}
